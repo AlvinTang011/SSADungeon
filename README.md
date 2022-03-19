@@ -3,7 +3,7 @@
 A new Flutter application.
 SSADungeon Information
 
-- [Information about SSADungeon can be found](https://flutter.dev/docs/get-started/codelab)
+- [Information about SSADungeon can be found here](https://github.com/AlvinTang011/SSADungeon/blob/main/SSADungeon.pdf)
 
 ## Getting Started
 
