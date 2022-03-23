@@ -4,6 +4,7 @@ A new Flutter application.
 SSADungeon Information
 
 - [Information about SSADungeon can be found here](https://github.com/AlvinTang011/SSADungeon/blob/main/SSADungeon.pdf)
+- [Information about SSADungeon documentation can be found here](https://github.com/AlvinTang011/SSADungeon/tree/main/documentation)
 
 ## Getting Started
 
